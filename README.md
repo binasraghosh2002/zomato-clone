@@ -1,3 +1,8 @@
 # zomato-clone
 Zomato Clone
-This repository contains the code for a Zomato clone, a basic static website built using HTML and CSS. The project aims to replicate the front-end design of the popular restaurant search and discovery service, Zomato.
+A static website clone of Zomato built with HTML and CSS.
+Features
+Responsive design
+Home page with search UI
+Restaurant listing and detail pages
+Basic navigation and footer
