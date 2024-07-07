@@ -1,7 +1,6 @@
 # zomato-clone
-Zomato Clone
 A static website clone of Zomato built with HTML and CSS.
-Features
+# Features
 Responsive design
 Home page with search UI
 Restaurant listing and detail pages
